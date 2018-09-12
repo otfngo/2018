@@ -1,4 +1,5 @@
 ## CSS resource link
 
 **Centering in CSS**
-https://css-tricks.com/centering-css-complete-guide/
+
+See https://css-tricks.com/centering-css-complete-guide/
