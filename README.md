@@ -1,6 +1,4 @@
-# link
-
-### CSS resource link
+## CSS resource link
 
 **Centering in CSS**
 
