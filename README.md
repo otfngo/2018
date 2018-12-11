@@ -1,3 +1,8 @@
+## Dec
+
+[JS] [详谈js防抖和节流](https://segmentfault.com/a/1190000017262710)
+
+
 ## Nov
 
 [CSS] [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
